@@ -18,5 +18,8 @@
   "homepage": "https://github.com/1412645/new-npm#readme",
   "dependencies": {
     "uuid": "^9.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
