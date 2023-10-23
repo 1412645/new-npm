@@ -1,0 +1,22 @@
+{
+  "name": "@demo-package-create/demo-create-npm",
+  "version": "1.0.0",
+  "description": "fsds",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1412645/new-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1412645/new-npm/issues"
+  },
+  "homepage": "https://github.com/1412645/new-npm#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
